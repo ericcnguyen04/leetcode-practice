@@ -19,7 +19,7 @@ const isPalidrome = (num) => {
     console.log('the reverse num is ' + reverseNum)
 
     // compare the origional number and return true or false
-    if (dataNum === reverseNum) {
+    if (dataNum.join('') === reverseNum.join('')) {
         return true
     } else {
         return false
