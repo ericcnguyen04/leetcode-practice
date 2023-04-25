@@ -11,10 +11,10 @@ const isPalidrome = (num) => {
     const order = []
     // const length = num.length
 
-    for (let i = 0; i < num.length; i++) {
-        order.push(i)
-        console.log(order)
-    }
+    // for (let i = 0; i < num.length; i++) {
+    //     order.push(i)
+    //     console.log(order)
+    // }
 
     return order
 }
