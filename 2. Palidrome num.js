@@ -11,7 +11,7 @@ const isPalidrome = (num) => {
     const order = []
     // const length = num.length
 
-    for (let i = 0; i < String(num.length); i++) {
+    for (let i = 0; i < (num.toString().length); i++) {
         order.push(4)
     }
     console.log('the length is ' + num.length)    
