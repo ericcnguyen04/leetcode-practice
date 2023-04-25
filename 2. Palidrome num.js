@@ -4,9 +4,11 @@
 // Output: true
 // Explanation: 121 reads as 121 from left to right and from right to left.
 
+// ====================================================================================
+
 
 // control variable - testing to see if the number is a palidrome
-const theNumber = 1211
+const theNumber = 12121
 
 const isPalidrome = (num) => {
     // get the origional number in an array
@@ -26,7 +28,6 @@ const isPalidrome = (num) => {
         return false
     }
 }
-
 
 console.log(isPalidrome(theNumber))
 
