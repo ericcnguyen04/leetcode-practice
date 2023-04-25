@@ -11,12 +11,12 @@ const theNumber = 123
 const isPalidrome = (num) => {
     // get the origional number in an array
     const dataNum = num.toString().split('')
-    console.log('the origional num is ' + dataNum)
+    console.log('the origional num is ' + dataNum.join(''))
 
 
     // second variable - reversed array
     const reverseNum = dataNum.reverse()
-    console.log('the reverse num is ' + reverseNum)
+    console.log('the reverse num is ' + reverseNum.join(''))
 
     // compare the origional number and return true or false
     if (dataNum.join('') === reverseNum.join('')) {
@@ -27,9 +27,6 @@ const isPalidrome = (num) => {
 }
 
 
+isPalidrome(theNumber)
 
-console.log(isPalidrome(theNumber))
 
-
-// number = 34563
-// console.log('eyyeyeye  ' + number.toString().length)
