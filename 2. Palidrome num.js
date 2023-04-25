@@ -9,12 +9,14 @@
 const theNumber = 123
 
 const isPalidrome = (num) => {
-    // get the origional number
-    console.log('the origional num is ' + num)
+    // get the origional number in an array
+    const dataNum = num.toString().split('')
+    console.log('the origional num is ' + dataNum)
 
 
-    // create a for loop to get the reverse number
-    const reverseNum = num.reverse()
+    // second variable - reversed array
+
+    const reverseNum = num
     console.log('the reverse num is ' + reverseNum)
 
 
