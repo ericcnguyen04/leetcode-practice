@@ -10,7 +10,7 @@ const theNumber = 123
 const isPalidrome = (num) => {
     const order = []
     // const length = num.length
-
+    order.push(4)
     // for (let i = 0; i < num.length; i++) {
     //     order.push(i)
     //     console.log(order)
