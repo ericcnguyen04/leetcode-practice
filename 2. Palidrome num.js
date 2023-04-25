@@ -15,17 +15,15 @@ const isPalidrome = (num) => {
 
 
     // second variable - reversed array
-
-    const reverseNum = num
+    const reverseNum = dataNum.reverse()
     console.log('the reverse num is ' + reverseNum)
 
-
-    // compare the origional number and for loop
-
-
-
-    // return true or false
-    return 
+    // compare the origional number and return true or false
+    if (dataNum === reverseNum) {
+        return true
+    } else {
+        return false
+    }
 }
 
 
