@@ -5,7 +5,7 @@
 // Explanation: 121 reads as 121 from left to right and from right to left.
 
 
-const num = 123
+num = 123
 
 const isPalidrome = (num) => {
     const order = []
