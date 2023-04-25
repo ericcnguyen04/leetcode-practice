@@ -24,5 +24,5 @@ const isPalidrome = (num) => {
 console.log(isPalidrome(theNumber))
 
 
-number = 34563
-console.log('eyyeyeye  ' + number.toString().length)
+// number = 34563
+// console.log('eyyeyeye  ' + number.toString().length)
