@@ -9,6 +9,20 @@
 const theNumber = 123
 
 const isPalidrome = (num) => {
+    // get the origional number
+    
+
+
+    // create a for loop to get the reverse number
+
+
+
+    // compare the origional number and for loop
+
+
+
+    // return true or false
+
     const order = []
     // const length = num.length
 
