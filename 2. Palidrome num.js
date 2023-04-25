@@ -5,6 +5,7 @@
 // Explanation: 121 reads as 121 from left to right and from right to left.
 
 
+// control variable - testing to see if the number is a palidrome
 const theNumber = 123
 
 const isPalidrome = (num) => {
@@ -12,9 +13,11 @@ const isPalidrome = (num) => {
     // const length = num.length
 
     for (let i = 0; i < (num.toString().length); i++) {
-        order.push(4)
+        order.push(num)
     }
     console.log('the length is ' + num.length)    
+
+
 
     return order
 }
