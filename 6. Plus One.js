@@ -2,8 +2,16 @@
 
 // Increment the large integer by one and return the resulting array of digits.
 
-
+const myArr = [1, 2, 3]
 
 var plusOne = function(digits) {
+    // take the last element of the array
+
     
+    // add one to the array
+
+    // return the new array
+
 };
+
+plusOne(myArr)
