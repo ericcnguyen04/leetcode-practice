@@ -6,13 +6,17 @@ const myArr = [1, 2, 5]
 
 var plusOne = function(digits) {
     // take the last element of the array
-    digits.length // 3
-    digits[digits.length - 1]
+    // digits.length // 3
+    const lastElement = digits[digits.length - 1] 
     
     // add one to the array
+    const added = lastElement + 1 // 6
 
     // return the new array
+    digits.pop()
+    digits.push(added)
 
+    return digits
 };
 
 plusOne(myArr)
