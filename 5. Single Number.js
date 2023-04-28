@@ -6,7 +6,8 @@ myArr = [5, 3, 3, 9, 2, 9, 2]
 
 const singleNumber = (arr) => {
     // loop through array
-
+    arr.filter((item, index) => arr.indexOf(item) !== index)
+    
     // find the number with no duplicate
 
     // return the number
