@@ -7,3 +7,5 @@
 var twoSum = function (nums, target) {
     return (target - nums)
 }
+
+twoSum()
