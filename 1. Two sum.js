@@ -4,7 +4,7 @@
 // Output: [0,1]
 // Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 
-numsArray = []
+numsArray = [1, 2, 3]
 
 var twoSum = function (nums, target) {
     const hashTable = {};
@@ -16,4 +16,4 @@ var twoSum = function (nums, target) {
     }
 }
 
-twoSum()
+twoSum(numsArray, 5)
