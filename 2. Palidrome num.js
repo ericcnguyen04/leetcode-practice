@@ -31,4 +31,4 @@ const isPalidrome = (num) => {
 
 console.log(isPalidrome(theNumber))
 
-
+// completed!
