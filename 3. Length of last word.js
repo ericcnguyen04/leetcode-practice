@@ -17,3 +17,5 @@ const lastWord = (str) => {
 }
 
 lastWord(string)
+
+// completed!
