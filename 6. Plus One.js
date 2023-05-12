@@ -20,3 +20,5 @@ var plusOne = function(digits) {
 };
 
 console.log(plusOne(myArr))
+
+// completed!
