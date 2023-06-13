@@ -2,6 +2,7 @@
 // iow, only display words that use the middle of the keyboard
 
 // make an array of invalid characters
+const invalid = ['q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p', 'z', 'x', 'c', 'v', 'b', 'n', 'm']
 
 // loop through script
 
