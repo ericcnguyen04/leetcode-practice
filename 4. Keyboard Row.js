@@ -10,7 +10,7 @@ const script = 'glad'
 // if word had invalid characters, return invalid
 const validation = (word, condition) => {
     for (let i = 0; i < word.length; i++) {
-        console.log(word)
+        console.log(word[i]) // this will print each letter of the word
     }
 }
 
