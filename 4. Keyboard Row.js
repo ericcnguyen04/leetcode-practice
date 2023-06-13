@@ -5,14 +5,19 @@
 const invalid = ['q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p', 'z', 'x', 'c', 'v', 'b', 'n', 'm']
 
 // loop through script
-const script = 'glad'
+const script = 'glade'
 
 // if word had invalid characters, return invalid
 const validation = (word, condition) => {
     for (let i = 0; i < word.length; i++) {
-        console.log(word[i]) // this will print each letter of the word
+        // console.log(word[i]) // this will print each letter of the word
+        if (word[i] == condition) {
+            console.log('true')
+        } else {
+            console.log('false')
+        }
     }
 }
 
 // return validation
-validation(script)
+validation(script, invalid)
