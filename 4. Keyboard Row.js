@@ -25,9 +25,9 @@ const validation = (word, condition) => {
             }
         }
     }
-    // console.log(error) this will show the counter depending on the script
+    console.log(error + 'hallaa') //this will show the counter depending on the script
 
-    if (error = 0) {
+    if (error == 0) {
         console.log('the script is valid!')
     } else {
         console.log(`the script has ${error} invalid characters`)
