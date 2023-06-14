@@ -11,6 +11,10 @@ const script = 'glade'
 const validation = (word, condition) => {
     for (let i = 0; i < word.length; i++) {
         // console.log(word[i]) // this will print each letter of the word
+        
+        for (let j = 0; j < condition.length; j++) {
+            console.log(condition[j])
+        }
         if (word[i] == condition) {
             console.log('true')
         } else {
