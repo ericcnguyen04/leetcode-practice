@@ -9,5 +9,7 @@
 const s = "()"
 
 var isValid = function(s) {
-    
+    // check the variable
+
+    // make open bracket follow up with close
 };
