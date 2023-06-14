@@ -19,12 +19,13 @@ const validation = (word, condition) => {
 
             if (word[i] == condition[j]) {
                 console.log('true')
+                error += 1
             } else {
                 console.log('false')
             }
         }
-        
     }
+    console.log(error)
 }
 
 // return validation
