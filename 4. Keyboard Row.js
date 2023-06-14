@@ -36,3 +36,5 @@ const validation = (word, condition) => {
 
 // return validation
 validation(script, invalid)
+
+// completed!
