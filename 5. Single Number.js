@@ -31,3 +31,6 @@ function findNonDuplicatedNumber(arr) {
   // Example usage
   const nonDuplicatedNumber = findNonDuplicatedNumber(myArr);
   console.log(nonDuplicatedNumber);
+
+  // completed!
+  
