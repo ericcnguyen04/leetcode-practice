@@ -2,8 +2,8 @@
 
 My journey on practicing leetcode 
 
-| Leetcode        | Notes and practices           | see  |
+| Leetcode      | Notes and practices   | see  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
+| 1. Two Sum      | Hashmap | $1600 |
+| 2. Add Two Numbers      | N/a      |   $12 |
 | zebra stripes | are neat      |    $1 |
