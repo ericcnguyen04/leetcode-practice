@@ -1,3 +1,9 @@
 # leetcode-practice
 
 My journey on practicing leetcode 
+
+| Leetcode        | Notes and practices           | see  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
