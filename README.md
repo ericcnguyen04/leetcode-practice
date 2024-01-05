@@ -15,7 +15,7 @@ No.| LeetCode Problem | Difficulty | Success Rate | Notes |
 9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | 55.2% | Conversion to string |
 10| [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | 28.0% | Dynamic programming and recursion |
 11| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | 54.6% | Two-pointer approach |
-12| [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | 63.9% | Greedy algorithm |
+12| [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | 63.9% | new Map(), array, for && while loops |
 13| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | 60.2% | Mapping and iteration |
 14| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | 42.1% | String comparison |
 15| [3Sum](https://leetcode.com/problems/3sum/) | Medium | 33.9% | Sorting and two-pointer approach |
