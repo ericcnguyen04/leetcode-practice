@@ -2,8 +2,8 @@
 
 My journey on practicing leetcode 
 
-| LeetCode Problem | Difficulty | Success Rate | Notes |
-| ---------------- | ---------- | ------------ | ----- |
+No.| LeetCode Problem | Difficulty | Success Rate | Notes |
+---| ---------------- | ---------- | ------------ | ----- |
 1| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | 51.4% | Hashmap implementation |
 2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | 41.9% | Linked list manipulation |
 3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 34.3% | Sliding window approach |
