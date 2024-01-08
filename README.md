@@ -20,7 +20,7 @@ No.| LeetCode Problem | Difficulty | Success Rate | Notes |
 14| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | 42.1% | String comparison |
 15| [3Sum](https://leetcode.com/problems/3sum/) | Medium | 33.9% | Sorting and two-pointer approach |
 16| [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | 45.6% | Sorting and two-pointer approach |
-17| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | 59.5% | Backtracking |
+17| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | 59.5% | review again; recursion|
 18| [4Sum](https://leetcode.com/problems/4sum/) | Medium | 36.0% | Sorting and two-pointer approach |
 19| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | 43.4% | Linked list manipulation |
 20| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | 40.3% | Stack data structure |
