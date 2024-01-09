@@ -25,7 +25,7 @@ No.| LeetCode Problem | Difficulty | Success Rate | Notes |
 19| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | 43.4% | Linked list manipulation |
 20| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | 40.3% | Stack data structure |
 21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 63.6% | Linked list merging |
-22| [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | 73.9% | Backtracking |
+22| [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | 73.9% | imagine binary tree, make combination |
 23| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | 51.7% | Heap and linked list merging |
 24| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | 63.6% | Linked list manipulation |
 25| [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | 57.4% | Linked list manipulation |
