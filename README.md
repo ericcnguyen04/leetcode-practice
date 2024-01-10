@@ -4,7 +4,7 @@ My journey on practicing leetcode
 
 No.| LeetCode Problem | Difficulty | Success Rate | Notes |
 ---| ---------------- | ---------- | ------------ | ----- |
-1| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | 51.4% | Hashmap implementation |
+1| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | 51.4% | Hashmap things|
 2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | 41.9% | Linked list manipulation |
 3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 34.3% | Sliding window approach |
 4| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | 38.8% | Binary search |
